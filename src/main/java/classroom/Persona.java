@@ -24,7 +24,7 @@ public class Persona {
 
     public Persona(long cedula) {
         this.cedula = cedula;
-        this.nombre = "Sin nombre";
+        //this.nombre = "Sin nombre";
         totalPersonas++;
     }
 
